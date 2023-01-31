@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>YouTube Clone</title>
+    </head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <body>
+        <div class="container">
+            <div class="navbar">
+                <span class="leftnav">
+                    <i class="fa-brands fa-youtube"></i>
+                    <b>YouTube</b>
+                </span>
+                <span class="rightnav">
+                    <i class="fa-brands fa-chromecast"></i>
+                    <i class="fa-regular fa-bell"></i>
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </span>
+            </div>
+            <div class="videotypes">
+                <span></i>Exclusive</span>
+                <span>All</span>
+                <span>Computer</span>
+                <span>Comedy</span>
+                <span>Music</span>
+                <span>Gaming</span>
+                <span>Trailers</span>
+                <span>Movies</span>
+                <span>Mixed</span>
+                <span>Juhi Pathak</span>
+            </div>   
+            <div class="Videos">
+                <iframe src="https://www.youtube.com/embed/CNHouhaDJEs" width="100%" height="100%"></iframe>
+               <iframe src="https://www.youtube.com/embed/KwFtM--o2Tg" width="100%" height="100%"></iframe>
+               <iframe src="https://www.youtube.com/embed/2PQbUXhk4RQ" width="100%" height="100%"></iframe>
+               <iframe src="https://www.youtube.com/embed/QUDppfXaPqo" width="100%" height="100%"></iframe>
+               <iframe src="https://www.youtube.com/embed/9A35CTN4dq8" width="100%" height="100%"></iframe              
+                 <iframe src="https://www.youtube.com/embed/GiyL4KFRNBA" width="100%" height="100%"></iframe>                 
+                 <iframe src="https://www.youtube.com/embed/https://youtu.be/o3pOjUJdz1I" width="100%" height="100%"></iframe>                
+                 <iframe src="https://www.youtube.com/embed/5ectFFbH2pA" width="100%" height="100%"></iframe>                 
+                 <iframe src="https://www.youtube.com/embed/MkcfB7S4fq0" width="100%" height="100%"></iframe> 
+                 <iframe src="https://www.youtube.com/embed/3HwRA2bqJ2M" width="100%" height="100%"></iframe>  
+                 <iframe src="https://www.youtube.com/embed/WX_c1ZJz4F8" width="100%" height="100%"></iframe> 
+                 <iframe src="https://www.youtube.com/embed/3C7Db8cRuec" width="100%" height="100%"></iframe>  
+                 <iframe src="https://www.youtube.com/embed/1h7n0YiyYvk" width="100%" height="100%"></iframe>
+                 <iframe src="https://www.youtube.com/embed/G5bkqavy2AQ" width="100%" height="100%"></iframe>   
+            </div>
+            <footer>
+                <div class="bottomnav">
+                    <img src="https://i.ibb.co/WvsBttJ/1665047514640-removebg-preview.png" alt="1665047514640-removebg-preview" border="0" class="home"> 
+                     <img src="https://i.ibb.co/1TJs5qw/1665047438752-removebg-preview.png" alt="1665047438752-removebg-preview" border="0" class="shorts">
+                     <img src="https://i.ibb.co/PDJT8pJ/1665047366897-removebg-preview.png" alt="1665047366897-removebg-preview" border="0" class="add">
+                     <img src="https://i.ibb.co/njQhbtH/1665047590327-removebg-preview.png" alt="1665047590327-removebg-preview" border="0" class="subscription">
+                     <img src="https://i.ibb.co/GVNtfzF/1665047660990-removebg-preview.png" alt="1665047660990-removebg-preview" border="0" class="library">                                    
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>
